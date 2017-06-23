@@ -5,4 +5,7 @@ package com.pinyin.ui.layout;
  */
 
 public class HelloTest {
+	public static void main(){
+		System.out.print("");
+	}
 }
